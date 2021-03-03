@@ -26,4 +26,4 @@ ___
 ___
 
 The details of the program are given below:  
-[Details]()
+[Details](https://github.com/erhanyalniz/Pipe-Puzzle/blob/792fbfc1adbb0e0214a6f7d6b89a541211a46cd1/CSE1142_Project1.pdf)
