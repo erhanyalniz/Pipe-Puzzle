@@ -1,5 +1,5 @@
 # Pipe Puzzle
-In this term project, We implemented a game by using JavaFX framework. This game aims moving a ball from a start point to an end point if there is an appropriate path. The user is supposed to form a path using pipes given as sliding tiles.
+In this project, We implemented a game by using JavaFX framework. This game aims moving a ball from a start point to an end point if there is an appropriate path. The user is supposed to form a path using pipes given as sliding tiles.
 ___
 ### Some Properties:
 
