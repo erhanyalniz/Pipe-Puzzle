@@ -5,7 +5,7 @@ ___
 
 There will be several levels; the user will not be able to play next level without completing a previous one.  
 Level aspects will be constructed according to the input files.  
-The ball will start from the blue tile and the path will end at the red tile. (Start and end tiles’ positions may be different for each level.)(Since the visuality is optional, we changed this design by using applications such as photoshop.)  
+The ball will start from the blue tile and the path will end at the red tile. (Start and end tiles’ positions may be different for each level.)  
 The blue and red tiles cannot move.   
 The user will use mouse to move the tiles.  
 Grey tiles indicate movement free spaces.  
